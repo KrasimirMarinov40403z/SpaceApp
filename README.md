@@ -1,4 +1,6 @@
-Примерен вход за тестване на функционалнстта на кода
+The main file is App.cs
+
+The following is an example of an input for code testing:
 
 add galaxy MilkyWay elliptical 13.2B
 
