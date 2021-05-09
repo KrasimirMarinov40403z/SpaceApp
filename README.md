@@ -1,4 +1,5 @@
-  
+Примерен вход за тестване на функционалнстта на кода
+
 add galaxy MilkyWay elliptical 13.2B
 
 add star MilkyWay Sun 0,99 0,98 5778 1,00
