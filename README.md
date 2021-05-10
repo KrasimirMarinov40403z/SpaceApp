@@ -1,4 +1,4 @@
-The main file is App.cs
+The main file is Program.cs
 
 The following is an example of an input for code testing:
 
